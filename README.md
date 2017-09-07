@@ -8,7 +8,6 @@
     │    │    ├── QuickSort.php      快速排序
     │    │    ├── InsertSort.php     插入排序
     │    │    └── SelectSort.php     选择排序
-    │    │ 
     │──golang
     │    ├──sort
     │    │    ├── BubbleSort.php     冒泡排序
