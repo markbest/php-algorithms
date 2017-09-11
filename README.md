@@ -11,7 +11,7 @@
     │    ├──structure
     │    │    ├── Queue.php          队列
     │    │    └── Stack.php          栈
-    │──golang
+    ├──golang
     │    ├──sort
     │    │    ├── BubbleSort.php     冒泡排序
     │    │    ├── QuickSort.php      快速排序
